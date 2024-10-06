@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Breast Cancer Diagnosis Using Curvelet, Wavelet, and Kernel Orthogonal Transforms in Digital Mammogram Images
+title: Feature Engineering for Breast Cancer Diagnosis Using Signal Processing
 description: with background image
 img: assets/img/breast_cancer_thumbnail.jpg
 importance: 1
