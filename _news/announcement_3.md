@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I participated in Mini-Workshop on Reinforcement Learning in Mannheim University on January 12th 2024! :sparkles: :smile:

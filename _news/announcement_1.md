@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-02-01 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started working as a researcher in Multi-Armed Bandits and Reinforcement Learning in Tübingen AI-center 
