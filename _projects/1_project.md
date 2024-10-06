@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Breast Cancer Diagnosis Using Curvelet, Wavelet, and Kernel Orthogonal Transforms in Digital Mammogram Images
 description: with background image
 img: assets/img/12.jpg
 importance: 1
