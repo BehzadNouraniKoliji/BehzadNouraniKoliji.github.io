@@ -2,7 +2,7 @@
 layout: page
 title: Breast Cancer Diagnosis Using Curvelet, Wavelet, and Kernel Orthogonal Transforms in Digital Mammogram Images
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/breast_cancer_thumbnail.jpg
 importance: 1
 category: work
 related_publications: true
