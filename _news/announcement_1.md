@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-02-01 
+date: 2023-10-02
 inline: true
 related_posts: false
 ---
 
-Started working as a researcher in Multi-Armed Bandits and Reinforcement Learning in Tübingen AI-center 
+I participated in the 26th European Conference on Artificial Intelligence (ECAI) 2023 in Krakow, Poland.  
