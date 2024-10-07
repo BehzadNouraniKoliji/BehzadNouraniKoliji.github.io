@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Tübingen AI-Center. I am a Machine Learning Scientist/ Data Scientist.
+subtitle: <a href='https://tuebingen.ai/'>Affiliated to Tübingen AI-Center</a>
 
 profile:
   align: right
@@ -18,16 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research lies at the intersection of Signal Processing and Reinforcement Learning. I am finishing my PhD under the supervision of ... . 
+My research lies at the intersection of Signal Processing and Reinforcement Learning. I am finishing my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/). 
+ 
+I received my master's degree in [Engineering in Computer Science](https://www.diag.uniroma1.it/en/courses) in 2020. I gratuated from Sapienza University of Rome, department of [Computer, Control, and Management Engineering](https://www.diag.uniroma1.it/en). During my studies, I worked with [Sergio Barbarossa](https://scholar.google.com/citations?user=2woHFu8AAAAJ&hl=en) on ... 
 
-I posses two master's degrees. 
-For my master's degree, I gratuated from Sapienza University of Rome, department of [Computer, Control, and Management Engineering](https://www.diag.uniroma1.it/en) where I received my degree in [Engineering in Computer Science](https://www.diag.uniroma1.it/en/courses). 
+Prior to my studies at the university of Rome, I worked for 3+ years as a data analyst in [ABARA](https://abaraco.com/en/). 
 
-Before my second master's degree, I worked for 3+ years as a data analyst in [ABARA](https://abaraco.com/en/). 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my bachelor's degree in Electrical Engineering from [Urmia University](https://en.urmia.ac.ir/) in 2011 and my first master's degree in Signal Processing from Azad University in 2014. During both my bachelor degree and my first master degree, I worked with [Mehdi Chehel Amirani](https://scholar.google.com/citations?user=AfrSe6cAAAAJ&hl=en) on pre-processing and feature engieering of face recognition systems as well as medical images in cancer detection from mammogram images.
