@@ -33,7 +33,12 @@ as well as Cancer Detection in Mammogram Images.
 
 Recently, I have started working on AutoML for Tabular Foundation Models. 
 
+<!--
+In my projects, you can find my hands-on skills in a wide range of projects in using Machine Learning and Signal Processing 
+for solving real-world problems in addition to interesting visualizations. 
 
+In my publications, you can find my skill in deep understanding + analysis + design of state-of-the-art in, problem solving, algorithm design and analysis, statistical inference, probabilistic modeling ... 
+-->
 
 <!-- Prior to my studies at the university of Rome, I worked for 3+ years as a data analyst in [ABARA](https://abaraco.com/en/). 
 
