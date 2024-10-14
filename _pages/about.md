@@ -28,7 +28,7 @@ I gratuated from Sapienza University of Rome, department of [Computer, Control, 
 During my stay at the University of Rome, I directly worked with [Sergio Barbarossa](https://scholar.google.com/citations?user=2woHFu8AAAAJ&hl=en) on 
 mutliple projects related to Multi-Variate Time Series Models, Causal Structures, Graph Structure Learning from Streaming Data, Time-Varying Graphs, Regularization, and Optimization. We used frameworks for the analysis of the data of Financial Markets as well as the data of Epidemics such as Covid-19. 
 
-My resume includes 3+ years of working as a data analyst in industry, in agriculture sector. 
+My resume includes 3+ years of working as a data analyst in industry, in Agriculture sector. 
 Additionally, in another period, I worked for 3+ years as research engineer on projects focused on Feature Engineering in Face Recognition Systems
 as well as Cancer Detection in Mammogram Images. 
 
