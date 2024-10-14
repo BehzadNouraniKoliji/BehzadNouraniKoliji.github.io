@@ -6,7 +6,7 @@
     "email": "behzadnourani.ai@gmail.com",
     "phone": "-",
     "url": "https://behzadnouranikoliji.github.io",
-    "summary": "Enthusiastic AI researcher ",
+    "summary": " - ",
     "location": {
       "address": "Maria-von-Linden-Straße 6",
       "postalCode": "72076",
@@ -30,7 +30,7 @@
       "startDate": "2021",
       "endDate": "2025",
       "summary": "Performing research in Machine Learning. Designing novel algorithms that solve real-life industrial problems and outperform state-of-the-art in various realistic scenarios.",
-      "highlights": ["Reinforcement Learning, AutoML, Foundation Models"]
+      "highlights": ["Bandit Algorithms on Graphs, Multi-Agent and Network Systems, AutoML, Tabular Foundation Models"]
     },
     {
       "name": "DIET department of Sapienza University of Rome and Signal Processing Laboratory (LTS4) of EPFL",
@@ -182,7 +182,7 @@
   "projects": [
     {
       "name": "Foundation Models for Tabular Data in AutoML",
-      "summary": "Please click on the link to go to the github repo of the project.",
+      "summary": "(Please click on the link to go to the github repository of the project)",
       "highlights": ["Foundation Models", "AutoML","Tabular Data"],
       "startDate": "2024-10-01",
       "endDate": "-",
