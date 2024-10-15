@@ -80,21 +80,21 @@
     {
       "name": "Amazon Web Services",
       "date": "2025-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Amazon Web Services",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Docker",
       "date": "2025-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Docker Certified Associate",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "German Language",
       "date": "2025-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Goethe Institut",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     }
@@ -141,7 +141,8 @@
         "Tabular Data",
         "Statistical Inference",
         "Algorithm Design",
-        "Graph Signal Processing"
+        "Graph Signal Processing",
+        "Python (PyTorch, TensorFlow, scikit-learn, Numpy, Pandas, Matplotlib, CVXPY, NetworkX), C++, MATLAB"
       ]
     }
   ],
@@ -153,7 +154,7 @@
     },
     {
       "language": "English",
-      "fluency": "C1/C2",
+      "fluency": "C2",
       "icon": ""
     }
   ],
@@ -171,7 +172,7 @@
     {
       "name": "Doctor Claire Vernade",
       "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "reference": "[Claire Vernade](https://www.cvernade.com/)"
     },
     {
       "name": "Professor Sergio Barbarossa",
