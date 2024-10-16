@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 9
+title: Identifying the nodes with the highest contribution to the utility in a network
 description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 4

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: Viral marketing and influence maximization using social networks
 description: a project with no image
 img:
 importance: 4

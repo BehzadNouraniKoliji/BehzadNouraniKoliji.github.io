@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pre-processing and feature engineering for a face recognition systems
+title: Pre-processing and feature engineering for a face recognition system
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
