@@ -1,6 +1,6 @@
 ---
 layout: page
-title: learning graphs from streaming data
+title: Learning graphs from streaming data with PyTorch implementation
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing an Online Recommender System Using Reinforcement Learning
+title: Designing an online recommender system based on social networks
 description: with background image
 img: assets/img/4.jpg
 importance: 1

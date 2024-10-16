@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive data visualization using pythos and javascript, 100 years of olympic data
+title: Interactive data visualization using python and javascript, 100 years of olympic data
 description: a project with a background image and giscus comments
 img: assets/img/learning graphs.jpg
 importance: 2
