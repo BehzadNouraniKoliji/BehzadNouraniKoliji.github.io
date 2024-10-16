@@ -2,7 +2,7 @@
 layout: page
 title: Designing an online recommender system based on social networks
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/social_networks_1.png
 importance: 1
 category: work
 related_publications: true
