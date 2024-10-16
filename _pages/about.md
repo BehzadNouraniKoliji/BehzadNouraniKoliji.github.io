@@ -21,18 +21,18 @@ social: true # includes social icons at the bottom of the page
 My research lies at the intersection of Signal Processing and Reinforcement Learning. 
 I am finishing my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/). 
 My research is focused on Bandit Algorithms on Graphs, Multi-Agent and Network Systems where the goal is to tackle real-world problems in 
-Online Recommender System design, and Resource Allocation. 
+Online Recommender System design, Computational Advertising, Viral Marketing, and Resource Allocation. 
 
 I received my 2nd master's degree in [Engineering in Computer Science](https://www.diag.uniroma1.it/en/courses) in 2020. 
 I gratuated from Sapienza University of Rome, department of [Computer, Control, and Management Engineering](https://www.diag.uniroma1.it/en). 
 During my stay at the University of Rome, I directly worked with [Sergio Barbarossa](https://scholar.google.com/citations?user=2woHFu8AAAAJ&hl=en) on 
 mutliple projects related to Multi-Variate Time Series Models, Causal Structures, Graph Structure Learning from Streaming Data, Time-Varying Graphs, Regularization, and Optimization. We used frameworks for the analysis of the data of Financial Markets as well as the data of Epidemics such as Covid-19. 
 
-My resume includes 3+ years of working as a data analyst in industry, in Agriculture sector. 
+Prior to these, I received my 1st master's degree in Signal Processing. My resume also includes 3+ years of working as a data analyst in industry, in Agriculture sector. 
 Additionally, in another period, I worked for 3+ years as research engineer on projects focused on Feature Engineering in Face Recognition Systems
 as well as Cancer Detection in Mammogram Images. 
 
-Recently, I have started working on AutoML for Tabular Foundation Models. 
+Recently, I have started working on a project in AutoML for Tabular Foundation Models. 
 
 <!--
 In my projects, you can find my hands-on skills in a wide range of projects in using Machine Learning and Signal Processing 

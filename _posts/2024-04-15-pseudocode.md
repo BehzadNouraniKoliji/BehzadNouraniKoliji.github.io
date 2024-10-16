@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with pseudo code
+title: on multi-agent multi-armed bandits (mutli-agent recommender system deign)
 date: 2024-04-15 00:01:00
 description: this is what included pseudo code could look like
 tags: formatting code

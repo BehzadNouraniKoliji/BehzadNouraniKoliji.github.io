@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Kaggle challenge on APS failure in Scania trucks
 description: another without an image
 img:
 importance: 3
