@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Viral marketing and influence maximization using social networks
-description: a project with no image
+description: 
 img:
 importance: 4
 category: fun

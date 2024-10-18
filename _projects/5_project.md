@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pre-processing and feature engineering for a face recognition system
-description: a project with a background image
+description: 
 img: assets/img/yaleB_HAAR.jpg
 importance: 3
 category: fun

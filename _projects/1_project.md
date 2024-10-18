@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Feature engineering for breast cancer diagnosis using signal processing
-description: with background image
+title: Breast cancer diagnosis using signal processing
+description: 
 img: assets/img/breast_cancer_thumbnail.jpg
 importance: 1
 category: work

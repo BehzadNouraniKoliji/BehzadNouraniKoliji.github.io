@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Identifying the nodes with the highest contribution to the utility in a network
-description: another project with an image 🎉
+description: 🎉
 img: assets/img/6.jpg
 importance: 4
 category: fun

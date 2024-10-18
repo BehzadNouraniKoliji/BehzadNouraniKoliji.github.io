@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-variate Time-Series Models
-description: an other project with a background image and giscus comments
+description: 
 img: assets/img/time_series.png
 importance: 2
 category: work

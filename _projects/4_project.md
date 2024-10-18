@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tackling Kaggle challenge on APS failure in Scania trucks
-description: another without an image
+description: 
 img:
 importance: 3
 category: fun
