@@ -48,7 +48,7 @@
       "startDate": "05.2022",
       "endDate": "09.2022",
       "summary": "We instructed the participants on how to design a recommender system using multi-armed bandits frameworks. We managed 2 teams, with 5 students in each team. We used the Scrum framework to manage the corresponding projects.",
-      "highlights": ["Bandit algorithms for designing recommender systems"]
+      "highlights": ["Title: Bandit algorithms for designing recommender systems"]
     }
   ],
   // "volunteer": [
@@ -88,21 +88,21 @@
   "certificates": [
     {
       "name": "Amazon Web Services",
-      "date": "2025-01-01",
+      "date": "2025-04-01",
       "issuer": "Amazon Web Services",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Docker",
-      "date": "2025-01-01",
+      "date": "2025-04-01",
       "issuer": "Docker Certified Associate",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "German Language",
-      "date": "2025-01-01",
+      "date": "2025-03-01",
       "issuer": "Goethe Institut",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
@@ -131,10 +131,10 @@
       "summary": "This is a novel framework that can be used in online marketing, influence maximization, and online recommender system design and analysis. The framework identifies the most influential nodes in a network to spread a signal while considering that some nodes in the network might be contributing to the generation of a certain amount of adversarial data."
     },
     {
-      "name": "Cluster Agnostic Network Lasso Bandits",
-      "publisher": "Arxiv",
+      "name": "Clusters Agnostic Network Lasso Bandits",
+      "publisher": "ICLR-2025",
       "releaseDate": "2024-10-10",
-      "url": "https://arxiv.org/html/2409.20079v1",
+      "url": "https://openreview.net/forum?id=KWUFlIMn8A",
       "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. It does not require any prior knowledge of the underlying graph that connects the users/items."
     }
   ],
