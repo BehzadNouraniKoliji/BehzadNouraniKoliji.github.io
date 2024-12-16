@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 My research lies at the intersection of Signal Processing and Reinforcement Learning. 
-I am finishing my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/). 
+I am finishing my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/team). 
 My research is focused on Bandit Algorithms on Graphs, Multi-Agent and Network Systems where the goal is to tackle real-world problems in 
 Online Recommender System design, Computational Advertising, Viral Marketing, and Resource Allocation. 
 
