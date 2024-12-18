@@ -88,21 +88,21 @@
   "certificates": [
     {
       "name": "Amazon Web Services",
-      "date": "2025-04-01",
+      "date": "",
       "issuer": "Amazon Web Services",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Docker",
-      "date": "2025-04-01",
+      "date": "",
       "issuer": "Docker Certified Associate",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "German Language",
-      "date": "2025-03-01",
+      "date": "",
       "issuer": "Goethe Institut",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
