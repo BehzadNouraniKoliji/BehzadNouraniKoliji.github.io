@@ -73,7 +73,7 @@
       "startDate": "2017",
       "endDate": "2020",
       "score": "",
-      "courses": ["Database Management Systems (SQL)","Knowledge Representation and Semantic Technologies (SPARQL,Protégé)","Software Engineering (Web Services)","Information Retrieval (MapReduce, Apache Spark)","Visual Analytics ()"]
+      "courses": ["Database Management Systems (SQL)","Knowledge Representation and Semantic Technologies (SPARQL,Protégé)","Software Engineering (Web Services)","Information Retrieval (MapReduce, Apache Spark)","Visual Analytics (Tableau)"]
     }
   ],
   // "awards": [
