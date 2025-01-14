@@ -86,27 +86,27 @@
   //   }
   // ],
   "certificates": [
-    {
-      "name": "Amazon Web Services",
-      "date": "",
-      "issuer": "Amazon Web Services",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Docker",
-      "date": "",
-      "issuer": "Docker Certified Associate",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "German Language",
-      "date": "",
-      "issuer": "Goethe Institute",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    }
+    //{
+    //  "name": "Amazon Web Services",
+    //  "date": "",
+    //  "issuer": "Amazon Web Services",
+    //  "url": "https://example.com",
+    //  "icon": "fa-solid fa-tag"
+    //},
+    //{
+    //  "name": "Docker",
+    //  "date": "",
+    //  "issuer": "Docker Certified Associate",
+    //  "url": "https://example.com",
+    //  "icon": "fa-solid fa-tag"
+    //},
+    //{
+    //"name": "German Language",
+    //  "date": "",
+    //  "issuer": "Goethe Institute",
+    //  "url": "https://example.com",
+    //  "icon": "fa-solid fa-tag"
+    //}
   ],
   "publications": [
     {
@@ -158,7 +158,7 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "B2",
+      "fluency": "B1",
       "icon": ""
     },
     {
