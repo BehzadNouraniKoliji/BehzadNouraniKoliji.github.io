@@ -27,7 +27,7 @@
       "name": "Tübingen AI Center",
       "position": "Machine Learning Researcher",
       "url": "https://tuebingen.ai/",
-      "startDate": "2021",
+      "startDate": "02.2021",
       "endDate": "2025",
       "summary": "Performing research in Machine Learning. Designing novel algorithms that solve real-life industrial problems and outperform state-of-the-art in various realistic scenarios.",
       "highlights": ["Bandit Algorithms on Graphs, Multi-Agent and Network Systems, AutoML, Tabular Foundation Models"]
@@ -36,8 +36,8 @@
       "name": "DIET department of Sapienza University of Rome and Signal Processing Laboratory (LTS4) of EPFL",
       "position": "Machine Learning Research Engineer",
       "url": "https://diet.web.uniroma1.it/en",
-      "startDate": "2019",
-      "endDate": "2021",
+      "startDate": "07.2019",
+      "endDate": "11.2020",
       "summary": "Performing research in Signal Processing for Big Data. Designing novel algorithms for the analysis of the data of Financial Markets as well as the data of Epidemics.",
       "highlights": ["Multi-Variate Time Series Models, Causal Structures, Graph Structure Learning from Streaming Data, Time-Varying Graphs, Regularization, and Optimization"]
     },
