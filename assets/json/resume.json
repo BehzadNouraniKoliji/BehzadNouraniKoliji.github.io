@@ -86,13 +86,13 @@
   //   }
   // ],
   "certificates": [
-    //{
-    //  "name": "Amazon Web Services",
-    //  "date": "",
-    //  "issuer": "Amazon Web Services",
-    //  "url": "https://example.com",
-    //  "icon": "fa-solid fa-tag"
-    //},
+    {
+      "name": "Neural Networks and Deep Learning",
+      "date": "",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/LA6883AC1EW7",
+      "icon": "fa-solid fa-tag"
+    }
     //{
     //  "name": "Docker",
     //  "date": "",
