@@ -88,9 +88,16 @@
   "certificates": [
     {
       "name": "Neural Networks and Deep Learning",
-      "date": "",
+      "date": "January 2025",
       "issuer": "DeepLearning.AI",
       "url": "https://www.coursera.org/account/accomplishments/certificate/LA6883AC1EW7",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Sequence Models",
+      "date": "March 2025",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/F37MKFDVUXMT",
       "icon": "fa-solid fa-tag"
     }
     //{
@@ -125,14 +132,14 @@
     },
     {
       "name": "Online Influence Maximization with Semi-Bandit Feedback under Corruptions",
-      "publisher": "Arxiv",
-      "releaseDate": "2024-09-30",
-      "url": "https://arxiv.org/html/2409.20079v1",
+      "publisher": "IEEE Transactions on Network Science and Engineering",
+      "releaseDate": "2025-02-30",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10909361",
       "summary": "This is a novel framework that can be used in online marketing, influence maximization, and online recommender system design and analysis. The framework identifies the most influential nodes in a network to spread a signal while considering that some nodes in the network might be contributing to the generation of a certain amount of adversarial data."
     },
     {
       "name": "Clusters Agnostic Network Lasso Bandits",
-      "publisher": "ICLR-2025",
+      "publisher": "OpenReview",
       "releaseDate": "2024-10-10",
       "url": "https://openreview.net/forum?id=KWUFlIMn8A",
       "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. It does not require any prior knowledge of the underlying graph that connects the users/items."
