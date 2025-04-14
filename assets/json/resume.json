@@ -142,7 +142,7 @@
       "publisher": "OpenReview",
       "releaseDate": "2024-10-10",
       "url": "https://openreview.net/forum?id=KWUFlIMn8A",
-      "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. It does not require any prior knowledge of the underlying graph that connects the users/items."
+      "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. Accordingly, it speeds-up the learning process by using the social network structure."
     }
   ],
   "skills": [
@@ -158,7 +158,7 @@
         "Statistical Inference",
         "Algorithm Design",
         "Graph Signal Processing",
-        "Python (PyTorch, TensorFlow, scikit-learn, Numpy, Pandas, Matplotlib, CVXPY, NetworkX), C++, MATLAB"
+        "Python (PyTorch, scikit-learn, Numpy, Pandas, Matplotlib, CVXPY, NetworkX), C++, MATLAB"
       ]
     }
   ],
