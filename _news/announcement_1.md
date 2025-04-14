@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I participated in the 26th European Conference on Artificial Intelligence (ECAI) 2023 in Krakow, Poland.  
+I participated and presented our paper in the 26th European Conference on Artificial Intelligence (ECAI) 2023 in Krakow, Poland.  
