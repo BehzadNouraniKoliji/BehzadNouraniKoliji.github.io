@@ -151,14 +151,16 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Reinforcement Learning",
-        "AutoML",
-        "Foundation Models",
-        "Tabular Data",
-        "Statistical Inference",
-        "Algorithm Design",
-        "Graph Signal Processing",
-        "Python (PyTorch, scikit-learn, Numpy, Pandas, Matplotlib, CVXPY, NetworkX), C++, MATLAB"
+        "* Reinforcement Learning",
+        "* LSTM", 
+        "* Transformers (Informer, TFT)",
+        "* AutoML (AutoGluon)",
+        "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet, N-Beats)",
+        "* Tabular Data",
+        "* Statistical Inference",
+        "* Algorithm Design",
+        "* Graph Signal Processing",
+        "* Python (PyTorch, Darts, scikit-learn, Numpy, Pandas, Matplotlib, CVXPY, NetworkX)"
       ]
     }
   ],
@@ -201,7 +203,7 @@
       "name": "Foundation Models for Tabular Data in AutoML",
       "summary": "(Please click on the link to go to the github repository of the project)",
       "highlights": ["Foundation Models", "AutoML","Tabular Data"],
-      "startDate": "2024-10-01",
+      "startDate": "2025-03-01",
       "endDate": "-",
       "url": "https://github.com/amirbalef/foundation_models_AutoML"
     }
