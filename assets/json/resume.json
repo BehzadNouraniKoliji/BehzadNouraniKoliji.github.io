@@ -99,6 +99,13 @@
       "issuer": "DeepLearning.AI",
       "url": "https://www.coursera.org/account/accomplishments/certificate/F37MKFDVUXMT",
       "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Amazon SageMaker",
+      "date": "June 2025",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-7963a4d6-0bd6-4c25-9703-2479d0e6d168/",
+      "icon": "fa-solid fa-tag"
     }
     //{
     //  "name": "Docker",
@@ -156,6 +163,7 @@
         "* Transformers (Informer, TFT)",
         "* AutoML (AutoGluon)",
         "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet, N-Beats)",
+        "* Amazon SageMaker",
         "* Tabular Data",
         "* Statistical Inference",
         "* Algorithm Design",

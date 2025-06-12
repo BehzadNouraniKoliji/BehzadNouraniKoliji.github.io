@@ -32,7 +32,7 @@ Prior to these, I received my 1st master's degree in Signal Processing. My resum
 Additionally, in another period, I worked for 3+ years as research engineer on projects focused on Feature Engineering in Face Recognition Systems
 as well as Cancer Detection in Mammogram Images. 
 
-Since October 2024, I have been working on a project in Foundation Models for Tabular Data in AutoML. 
+Since March 2025, I have been working on a project in Foundation Models for Tabular Data in AutoML. 
 
 <!--
 In my projects, you can find my hands-on skills in a wide range of projects in using Machine Learning and Signal Processing 
