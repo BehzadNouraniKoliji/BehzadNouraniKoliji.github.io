@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://tuebingen.ai/'>Affiliated to Tübingen AI-Center.</a> I am an AI researcher.
+subtitle: <a href='https://tuebingen.ai/'>Affiliated to Tübingen AI-Center.</a> I finished my PhD in AI in Tübingen University.
 
 profile:
   align: right
@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I have a background in Signal Processing, Machine Learning, and Reinforcement Learning. 
-I am finishing my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/team). 
-My research is focused on Bandit Algorithms on Graphs, Multi-Agent and Network Systems where the goal is to tackle real-world problems in 
+I finished my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/team). 
+I worked on Bandit Algorithms on Graphs, Multi-Agent and Network Systems where the goal is to tackle real-world problems in 
 Online Recommender System design, Computational Advertising, Viral Marketing, and Resource Allocation. 
 
 I received my master's degree in [Engineering in Computer Science](https://www.diag.uniroma1.it/en/courses) in 2020. 
@@ -30,8 +30,6 @@ mutliple projects related to Multi-Variate Time Series Models, Causal Structures
 
 My resume also includes 3+ years of working as a data analyst in industry, in Agriculture sector. 
 Additionally, in another period, I worked for 3+ years as research engineer on projects focused on Feature Engineering in Face Recognition Systems as well as Cancer Detection in Mammogram Images. 
-
-Since March 2025, I have been working on a project in Foundation Models for Tabular Data in AutoML. 
 
 <!--
 In my projects, you can find my hands-on skills in a wide range of projects in using Machine Learning and Signal Processing 
