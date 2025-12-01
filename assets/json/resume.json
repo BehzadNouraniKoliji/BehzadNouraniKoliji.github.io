@@ -64,6 +64,17 @@
   //   }
   // ],
   "education": [
+//{
+    //  "institution": "Eberhard Karls University of Tübingen, Tübingen, Germany",
+    //  "location": "Tübingen, Germany",
+    //  "url": "https://uni-tuebingen.de/en",
+    //  "area": "Machine Learning",
+    //  "studyType": "Doctoral degree",
+    //  "startDate": "Feb.2021",
+    //  "endDate": "Nov.2025",
+    //  "score": "",
+    //  "courses": ""
+  //  },
     {
       "institution": "Sapienza University of Rome, Rome, Italy",
       "location": "Rome, Italy",
