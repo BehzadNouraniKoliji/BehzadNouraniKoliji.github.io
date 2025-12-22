@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Behzad Nourani",
-    "label": "AI Researcher",
+    "label": "Data Scientist/Analyst and AI Specialist",
     "image": "",
     "email": "behzadnourani.ai@gmail.com",
     "phone": "-",
@@ -29,7 +29,7 @@
       "url": "https://tuebingen.ai/",
       "startDate": "02.2021",
       "endDate": "2025",
-      "summary": "Performing research in Machine Learning. Designing novel algorithms that solve real-life industrial problems and outperform state-of-the-art in various realistic scenarios.",
+      "summary": "Performing research in Machine Learning. Designing novel algorithms that solve real-life industrial problems and outperform state-of-the-art solutions in various realistic scenarios.",
       "highlights": ["Bandit Algorithms on Graphs, Multi-Agent and Network Systems, AutoML, Tabular Foundation Models"]
     },
     {
@@ -64,25 +64,25 @@
   //   }
   // ],
   "education": [
-//{
-    //  "institution": "Eberhard Karls University of Tübingen, Tübingen, Germany",
-    //  "location": "Tübingen, Germany",
-    //  "url": "https://uni-tuebingen.de/en",
+{
+     "institution": "Eberhard Karls University of Tübingen, Tübingen, Germany",
+     "location": "Tübingen, Germany",
+     "url": "https://uni-tuebingen.de/en",
     //  "area": "Machine Learning",
-    //  "studyType": "Doctoral degree",
-    //  "startDate": "Feb.2021",
-    //  "endDate": "Nov.2025",
-    //  "score": "",
-    //  "courses": ""
-  //  },
+     "studyType": "Doctoral degree in Machine Learning",
+     "startDate": "02.2021",
+     "endDate": "11.2025",
+     "score": "",
+     "courses": "On 24th of Nov. 2025, I successfullay defended my PhD Thesis with title: Adaptive Online Decision Making Based on Interconnected Data"
+   },
     {
       "institution": "Sapienza University of Rome, Rome, Italy",
       "location": "Rome, Italy",
       "url": "https://www.diag.uniroma1.it/en",
-      "area": "Engineering in Computer Science",
-      "studyType": "Master's degree",
-      "startDate": "2017",
-      "endDate": "2020",
+      // "area": "",
+      "studyType": "Master's degree in Engineering in Computer Science",
+      "startDate": "10.2017",
+      "endDate": "10.2020",
       "score": "",
       "courses": ["Database Management Systems (SQL)","Knowledge Representation and Semantic Technologies (SPARQL,Protégé)","Software Engineering (Web Services)","Information Retrieval (MapReduce, Apache Spark)","Visual Analytics (Tableau)"]
     }
@@ -117,14 +117,14 @@
       "issuer": "Udemy",
       "url": "https://www.udemy.com/certificate/UC-7963a4d6-0bd6-4c25-9703-2479d0e6d168/",
       "icon": "fa-solid fa-tag"
+    },
+    {
+     "name": "PyTorch and CNN",
+     "date": "Dec 2025",
+     "issuer": "Udemy",
+     "url": "https://www.udemy.com/certificate/UC-a93b2b1c-cb05-4bcb-9b89-2fdbc5955ace/",
+     "icon": "fa-solid fa-tag"
     }
-    //{
-    //  "name": "Docker",
-    //  "date": "",
-    //  "issuer": "Docker Certified Associate",
-    //  "url": "https://example.com",
-    //  "icon": "fa-solid fa-tag"
-    //},
     //{
     //"name": "German Language",
     //  "date": "",
@@ -171,7 +171,8 @@
       "keywords": [
         "* Reinforcement Learning",
         "* LSTM", 
-        "* Transformers (Informer, TFT)",
+        "* Transformers (Informer, Temporal Fusion Transformer)",
+        "* CNN (Image classification, Object detection, Image segmentation)",
         "* AutoML (AutoGluon)",
         "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet, N-Beats)",
         "* Amazon SageMaker",
@@ -200,14 +201,14 @@
       "name": "Machine Learning/Deep Learning",
       "icon": "fa-solid fa-thumbtack",
       "keywords": [
-        "-",
-        "-"
+        "Transformers",
+        "Convolutional neural network (CNN)"
       ]
     }
   ],
   "references": [
     {
-      "name": "Doctor Claire Vernade",
+      "name": "Professor Claire Vernade",
       "icon": "fa-solid fa-laptop",
       "reference": ""
     },
@@ -222,7 +223,7 @@
       "name": "Foundation Models for Tabular Data in AutoML",
       "summary": "(Please click on the link to go to the github repository of the project)",
       "highlights": ["Foundation Models", "AutoML","Tabular Data"],
-      "startDate": "2025-03-01",
+      "startDate": "2025-11-01",
       "endDate": "-",
       "url": "https://github.com/amirbalef/foundation_models_AutoML"
     }
