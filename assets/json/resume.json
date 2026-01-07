@@ -157,8 +157,8 @@
     },
     {
       "name": "Clusters Agnostic Network Lasso Bandits",
-      "publisher": "OpenReview",
-      "releaseDate": "2024-10-10",
+      "publisher": "Transactions on Machine Learning Research (TMLR)",
+      "releaseDate": "2025-12-10",
       "url": "https://openreview.net/forum?id=KWUFlIMn8A",
       "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. Accordingly, it speeds-up the learning process by using the social network structure."
     }
@@ -184,6 +184,16 @@
       ]
     }
   ],
+  "interests": [
+    {
+      "name": "Machine Learning/Deep Learning",
+      "icon": "fa-solid fa-thumbtack",
+      "keywords": [
+        "Transformers",
+        "Convolutional neural network (CNN)"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "German",
@@ -195,37 +205,28 @@
       "fluency": "C2",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Machine Learning/Deep Learning",
-      "icon": "fa-solid fa-thumbtack",
-      "keywords": [
-        "Transformers",
-        "Convolutional neural network (CNN)"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor Claire Vernade",
-      "icon": "fa-solid fa-laptop",
-      "reference": ""
-    },
-    {
-      "name": "Professor Sergio Barbarossa",
-      "icon": "fa-solid fa-laptop",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "Foundation Models for Tabular Data in AutoML",
-      "summary": "(Please click on the link to go to the github repository of the project)",
-      "highlights": ["Foundation Models", "AutoML","Tabular Data"],
-      "startDate": "2025-11-01",
-      "endDate": "-",
-      "url": "https://github.com/amirbalef/foundation_models_AutoML"
-    }
   ]
+  //,
+  //"references": [
+  //  {
+  //    "name": "Professor Claire Vernade",
+  //    "icon": "fa-solid fa-laptop",
+  //    "reference": ""
+  //  },
+  //  {
+  //    "name": "Professor Sergio Barbarossa",
+  //    "icon": "fa-solid fa-laptop",
+  //    "reference": ""
+  //  }
+  //],
+  //"projects": [
+  //  {
+  //    "name": "Foundation Models for Tabular Data in AutoML",
+  //    "summary": "(Please click on the link to go to the github repository of the project)",
+  //    "highlights": ["Foundation Models", "AutoML","Tabular Data"],
+  //    "startDate": "2025-11-01",
+  //    "endDate": "-",
+  //    "url": "https://github.com/amirbalef/foundation_models_AutoML"
+  //  }
+  //]
 }
