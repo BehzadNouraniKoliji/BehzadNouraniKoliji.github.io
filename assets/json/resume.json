@@ -30,7 +30,7 @@
       "startDate": "02.2021",
       "endDate": "2025",
       "summary": "Performing research in Machine Learning. Designing novel algorithms that solve real-life industrial problems and outperform state-of-the-art solutions in various realistic scenarios.",
-      "highlights": ["Bandit Algorithms on Graphs, Multi-Agent and Network Systems, AutoML, Tabular Foundation Models"]
+      "highlights": ["Multi-Agent and Network Systems, Large Language Models, Bandit Algorithms on Graphs"]
     },
     {
       "name": "DIET department of Sapienza University of Rome and Signal Processing Laboratory (LTS4) of EPFL",
@@ -96,35 +96,35 @@
   //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
   //   }
   // ],
-  "certificates": [
-    {
-      "name": "Neural Networks and Deep Learning",
-      "date": "January 2025",
-      "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/LA6883AC1EW7",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Sequence Models",
-      "date": "March 2025",
-      "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/F37MKFDVUXMT",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Amazon SageMaker",
-      "date": "June 2025",
-      "issuer": "Udemy",
-      "url": "https://www.udemy.com/certificate/UC-7963a4d6-0bd6-4c25-9703-2479d0e6d168/",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-     "name": "PyTorch and CNN",
-     "date": "Dec 2025",
-     "issuer": "Udemy",
-     "url": "https://www.udemy.com/certificate/UC-a93b2b1c-cb05-4bcb-9b89-2fdbc5955ace/",
-     "icon": "fa-solid fa-tag"
-    }
+  //"certificates": [
+  //  {
+  //    "name": "Neural Networks and Deep Learning",
+  //    "date": "January 2025",
+  //    "issuer": "DeepLearning.AI",
+  //    "url": "https://www.coursera.org/account/accomplishments/certificate/LA6883AC1EW7",
+  //    "icon": "fa-solid fa-tag"
+  //  },
+  //  {
+  //    "name": "Sequence Models",
+  //    "date": "March 2025",
+  //    "issuer": "DeepLearning.AI",
+  //    "url": "https://www.coursera.org/account/accomplishments/certificate/F37MKFDVUXMT",
+  //    "icon": "fa-solid fa-tag"
+  //  },
+  //  {
+  //    "name": "Amazon SageMaker",
+  //    "date": "June 2025",
+  //    "issuer": "Udemy",
+  //    "url": "https://www.udemy.com/certificate/UC-7963a4d6-0bd6-4c25-9703-2479d0e6d168/",
+  //    "icon": "fa-solid fa-tag"
+  //  },
+  //{
+  // "name": "PyTorch and CNN",
+  // "date": "Dec 2025",
+  // "issuer": "Udemy",
+  // "url": "https://www.udemy.com/certificate/UC-a93b2b1c-cb05-4bcb-9b89-2fdbc5955ace/",
+  // "icon": "fa-solid fa-tag"
+  //}
     //{
     //"name": "German Language",
     //  "date": "",
@@ -132,7 +132,7 @@
     //  "url": "https://example.com",
     //  "icon": "fa-solid fa-tag"
     //}
-  ],
+ //,
   "publications": [
     {
       "name": "Linear Combinatorial Semi-Bandit with Causally Related Rewards",
@@ -172,9 +172,10 @@
         "* Reinforcement Learning",
         "* LSTM", 
         "* Transformers (Informer, Temporal Fusion Transformer)",
+        "* Large Language Models",
         "* CNN (Image classification, Object detection, Image segmentation)",
         "* AutoML (AutoGluon)",
-        "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet, N-Beats)",
+        "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet)",
         "* Amazon SageMaker",
         "* Tabular Data",
         "* Statistical Inference",
@@ -190,7 +191,8 @@
       "icon": "fa-solid fa-thumbtack",
       "keywords": [
         "Transformers",
-        "Convolutional neural network (CNN)"
+        "Large Language Models",
+        "Convolutional Neural Networks (CNN)"
       ]
     }
   ],
