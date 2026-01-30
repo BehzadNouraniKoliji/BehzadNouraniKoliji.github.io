@@ -20,15 +20,13 @@ social: true # includes social icons at the bottom of the page
 
 I have a background in Signal Processing, Machine Learning, and Reinforcement Learning. 
 I finished my PhD under the supervision of [Claire Vernade](https://www.cvernade.com/team). 
-I worked on Bandit Algorithms on Graphs, Multi-Agent and Network Systems where the goal is to tackle real-world problems in 
-Online Recommender System design, Computational Advertising, Viral Marketing, and Resource Allocation. 
+I worked on Bandit Algorithms on Graphs, Multi-Agent and Network Systems where the goal is to tackle real-world problems in Recommender System design, and Resource Allocation. 
 
 I received my master's degree in [Engineering in Computer Science](https://www.diag.uniroma1.it/en/courses) in 2020. 
 I gratuated from Sapienza University of Rome, department of [Computer, Control, and Management Engineering](https://www.diag.uniroma1.it/en). 
-During my stay at the University of Rome, I directly worked with [Sergio Barbarossa](https://scholar.google.com/citations?user=2woHFu8AAAAJ&hl=en) on 
-mutliple projects related to Multi-Variate Time Series Models, Causal Structures, Graph Structure Learning from Streaming Data, Time-Varying Graphs, Regularization, and Optimization. We used frameworks for the analysis of the data of Financial Markets as well as the data of Epidemics such as Covid-19. 
+During my stay at the University of Rome, I directly worked with [Sergio Barbarossa](https://scholar.google.com/citations?user=2woHFu8AAAAJ&hl=en) on mutliple projects related to Multi-Variate Time Series Models, Causal Structures, Graph Structure Learning from Streaming Data, Time-Varying Graphs, Regularization, and Optimization. We used frameworks for the analysis of the data of Financial Markets as well as the data of Epidemics such as Covid-19. 
 
-My resume also includes 3+ years of working as a data analyst in industry, in Agriculture sector. 
+My resume also includes 3+ years of working as a data scientist/analyst in industry, in Agriculture sector. 
 Additionally, in another period, I worked for 3+ years as research engineer on projects focused on Feature Engineering in Face Recognition Systems as well as Cancer Detection in Mammogram Images. 
 
 <!--
