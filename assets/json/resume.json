@@ -139,7 +139,7 @@
       "publisher": "International Joint Conferences on Artificial Intelligence (IJCAI) 2022",
       "releaseDate": "2022-07-23",
       "url": "https://www.ijcai.org/proceedings/2022/0676.pdf",
-      "summary": "This is a novel framework that can be used for the analysis and design of online recommender systems as well as the analysis of data of epidemics. The framework relies on Structural Equation Modelling to model a causal system. The goal is to find places in the system that make the utiliy signal maximized."
+      "summary": "This is a novel framework that can be used for the analysis and design of online recommender systems as well as the analysis of data of epidemics. The framework relies on Structural Equation Modelling to model a causal system. The goal is to find places in the system that make the utiliy signal maximized. The framework can also be used for solving some ranking problems in networks."
     },
     {
       "name": "Piecewise-Stationary Combinatorial Semi-Bandit with Causally Related Rewards",
