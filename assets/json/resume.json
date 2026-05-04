@@ -191,9 +191,9 @@
       "name": "Machine Learning/Deep Learning",
       "icon": "fa-solid fa-thumbtack",
       "keywords": [
+        "Agentic AI",
         "Transformers",
-        "Large Language Models",
-        "Convolutional Neural Networks (CNN)"
+        "Large Language Models"
       ]
     }
   ],
