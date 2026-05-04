@@ -170,18 +170,19 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "* Reinforcement Learning",
-        "* LSTM", 
-        "* Transformers (Informer, Temporal Fusion Transformer)",
-        "* Large Language Models",
+        "* Agentic AI",
+        "* LSTM, Transformers, Large Language Models (LLMs)", 
         "* CNN (Image classification, Object detection, Image segmentation)",
-        "* AutoML (AutoGluon)",
-        "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet)",
+        "* Time Series Analysis/Forecasting (ARIMA, SARIMA, Facebook Prophet, XGBoost)",
+        "* Tabular Data Science (Tabular Foundation Models)",
+        
         "* Amazon SageMaker",
-        "* Tabular Data",
+        "* Tools and platforms (MLflow, Airflow, CI/CD , GitHub, Docker, Jupyter, SQL, Tableau)",
+        "* Python (PyTorch, Darts, scikit-learn, Numpy, Pandas, PySpark, Matplotlib, CVXPY, NetworkX)",
+        
         "* Statistical Inference",
         "* Algorithm Design",
-        "* Graph Signal Processing",
-        "* Python (PyTorch, Darts, scikit-learn, Numpy, Pandas, Matplotlib, CVXPY, NetworkX)"
+        "* Graph Signal Processing"
       ]
     }
   ],
