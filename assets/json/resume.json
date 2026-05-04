@@ -37,7 +37,7 @@
       "position": "Machine Learning Research Engineer",
       "url": "https://diet.web.uniroma1.it/en",
       "startDate": "07.2019",
-      "endDate": "11.2020",
+      "endDate": "10.2020",
       "summary": "Performing research in Signal Processing for Big Data. Designing novel algorithms for the analysis of the data of Financial Markets as well as the data of Epidemics.",
       "highlights": ["Multi-Variate Time Series Models, Causal Structures, Graph Structure Learning from Streaming Data, Time-Varying Graphs, Regularization, and Optimization"]
     },
@@ -84,7 +84,7 @@
       "startDate": "10.2017",
       "endDate": "10.2020",
       "score": "",
-      "courses": ["Database Management Systems (SQL)","Knowledge Representation and Semantic Technologies (SPARQL,Protégé)","Software Engineering (Web Services)","Information Retrieval (MapReduce, Apache Spark)","Visual Analytics (Tableau)"]
+      "courses": ["Database Management Systems (SQL)","Knowledge Representation and Semantic Technologies (SPARQL,Protégé)","Software Engineering (Web Services)","Information Retrieval (Apache Spark)","Visual Analytics (Tableau)"]
     }
   ],
   // "awards": [
@@ -139,7 +139,7 @@
       "publisher": "International Joint Conferences on Artificial Intelligence (IJCAI) 2022",
       "releaseDate": "2022-07-23",
       "url": "https://www.ijcai.org/proceedings/2022/0676.pdf",
-      "summary": "This is a novel framework that can be used for the analysis and design of online recommender systems as well as the analysis of data of epidemics. The framework relies on Structural Equation Modelling to model a causal system. The goal is to find places in the system that make the utiliy signal maximized. The framework can also be used for solving ranking problems in networks. In our experiments, we applied our framework to the real-world dataset of Covid-19 in Italy and revealed critical insights about the spread of the virus in the country."
+      "summary": "This is a novel framework that can be used for the analysis and design of online recommender systems as well as the analysis of data of epidemics. The framework relies on Structural Equation Modeling to model a causal system. The goal is to find places in the system that make the utility signal maximized. The framework can also be used for solving ranking problems in networks. In our experiments, we applied our framework to the real-world dataset of Covid-19 in Italy and revealed critical insights about the spread of the virus in the country."
     },
     {
       "name": "Piecewise-Stationary Combinatorial Semi-Bandit with Causally Related Rewards",
