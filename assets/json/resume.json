@@ -139,28 +139,28 @@
       "publisher": "International Joint Conferences on Artificial Intelligence (IJCAI) 2022",
       "releaseDate": "2022-07-23",
       "url": "https://www.ijcai.org/proceedings/2022/0676.pdf",
-      "summary": "This is a novel framework that can be used for the analysis and design of online recommender systems as well as the analysis of data of epidemics. The framework relies on Structural Equation Modelling to model a causal system. The goal is to find places in the system that make the utiliy signal maximized. The framework can also be used for solving some ranking problems in networks."
+      "summary": "This is a novel framework that can be used for the analysis and design of online recommender systems as well as the analysis of data of epidemics. The framework relies on Structural Equation Modelling to model a causal system. The goal is to find places in the system that make the utiliy signal maximized. The framework can also be used for solving ranking problems in networks. In our experiments, we applied our framework to the real-world dataset of Covid-19 in Italy and revealed critical insights about the spread of the virus in the country."
     },
     {
       "name": "Piecewise-Stationary Combinatorial Semi-Bandit with Causally Related Rewards",
       "publisher": "European Conference on Artificial Intelligence (ECAI) 2023",
       "releaseDate": "2023-09-30",
       "url": "https://ebooks.iospress.nl/doi/10.3233/FAIA230465",
-      "summary": "This is a novel framework that can be used for the design and analysis of recommender systems in nonstationary environments as well as other real-world applications where the causal system in the data generation process changes in time. The framework models a time-varying causal system. In the design of the framework, we used Change Point Detectors to track nonstationarity of the data."
+      "summary": "This is a novel framework that can be used for the design and analysis of recommender systems in nonstationary environments as well as other real-world applications where the causal system in the data generation process changes in time. The framework models a time-varying causal system. In the design of the framework, we used Change Point Detectors to track nonstationarity of the data. In our experiments, we beat state-of-the-art solutions in realistic scenarios."
     },
     {
       "name": "Online Influence Maximization with Semi-Bandit Feedback under Corruptions",
       "publisher": "IEEE Transactions on Network Science and Engineering",
       "releaseDate": "2025-02-30",
       "url": "https://ieeexplore.ieee.org/abstract/document/10909361",
-      "summary": "This is a novel framework that can be used in online marketing, influence maximization, and online recommender system design and analysis. The framework identifies the most influential nodes in a network to spread a signal while considering that some nodes in the network might be contributing to the generation of a certain amount of adversarial data."
+      "summary": "This is a novel framework that can be used in online marketing, influence maximization, and online recommender system design and analysis. The framework identifies the most influential nodes in a network to spread a signal while considering that some nodes in the network might be contributing to the generation of a certain amount of adversarial data. In our experiments, we demonstrated the effectiveness of our approach in finding the most influential users in a network of more than 4000 users from Facebook."
     },
     {
       "name": "Clusters Agnostic Network Lasso Bandits",
       "publisher": "Transactions on Machine Learning Research (TMLR)",
       "releaseDate": "2025-12-10",
       "url": "https://openreview.net/forum?id=KWUFlIMn8A",
-      "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. Accordingly, it speeds-up the learning process by using the social network structure."
+      "summary": "This is a novel framework that can be used in the design and analysis of large-scale online recommender systems. The framework identifies clusters of nodes in a network of users/items and finds a solution for each cluster separately. Accordingly, it speeds-up the learning process by using the social network structure. In our experiments, we beat state-of-the-art solutions in realistic scenarios."
     }
   ],
   "skills": [
